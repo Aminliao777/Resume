@@ -9,5 +9,6 @@
 ### 個人著作
 - 使用C++程式語言開發的AI機器人
   
-![Imgur](https://i.imgur.com/rshjIlv.jpg)
+![](https://i.imgur.com/rshjIlv.jpg)
+![](巧克力蛋糕.jpg)
 
